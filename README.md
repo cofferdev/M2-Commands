@@ -1,2 +1,2 @@
 # Magento 2
-## Magento 2 commands1
+## Magento 2 commands
